@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color:blue;
+    font-weight: bold;
+}
+
+p {
+    text-align: left;
+    position: relative;
+    top: 5px;
+}
+.bajar-texto {
+    color:red;
+    text-align: left;
+    position: relative;
+    top: 40px;
+    text-align: center;
+    font-style: italic;
+}
+
+.texto-abajo {
+    text-align: left;
+    position: relative;
+    top: 800px;
+    font-weight: bold;
+}
